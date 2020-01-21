@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16518" started-at="2019-12-04T14:14:32Z" finished-at="2019-12-04T14:14:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16518" started-at="2019-12-04T14:14:32Z" finished-at="2019-12-04T14:14:48Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="Appium1()[pri:0, instance:qaclickacademy.AppiumTest@7085bdee]" name="Appium1" duration-ms="2" started-at="2019-12-04T14:14:48Z" finished-at="2019-12-04T14:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium1 -->
+        <test-method status="PASS" signature="Appium2()[pri:0, instance:qaclickacademy.AppiumTest@7085bdee]" name="Appium2" duration-ms="2" started-at="2019-12-04T14:14:48Z" finished-at="2019-12-04T14:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium2 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="Rest1()[pri:0, instance:qaclickacademy.RESTAPITest@73ad2d6]" name="Rest1" duration-ms="2" started-at="2019-12-04T14:14:48Z" finished-at="2019-12-04T14:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest1 -->
+        <test-method status="PASS" signature="Rest2()[pri:0, instance:qaclickacademy.RESTAPITest@73ad2d6]" name="Rest2" duration-ms="2" started-at="2019-12-04T14:14:48Z" finished-at="2019-12-04T14:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rest2 -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Selenium1()[pri:0, instance:qaclickacademy.SeleniumTest@4cf777e8]" name="Selenium1" duration-ms="16439" started-at="2019-12-04T14:14:32Z" finished-at="2019-12-04T14:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium1 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
